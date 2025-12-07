@@ -1,5 +1,5 @@
 # Hola! Soy Agustín Dana 👋
-Soy un Estudiante de Ingeniería en Sistemas en la [UTN FRRO](https://www.frro.utn.edu.ar/plan_estudio.php?esp=5&gad_source=1&gad_campaignid=6443087241&gbraid=0AAAAAD-5DJuo-Inm2Mjw5BGmgtbF11Kae&gclid=Cj0KCQiAosrJBhD0ARIsAHebCNr7h-0834gVkh9Mrr4qy_tPXLkGi9Hqr7xjrOZ31tBcHLRyAgneyfEaAt-bEALw_wcB).Actualmente en 4to Año de la carrera y ya habiendo pasado por varios proyectos universitarios grandes, sabiendo el compromiso que ello implica, estoy listo para aprender y desarrollarme en el ámbito laboral.
+Estudiante de Ingeniería en Sistemas en la [UTN FRRO](https://www.frro.utn.edu.ar/plan_estudio.php?esp=5&gad_source=1&gad_campaignid=6443087241&gbraid=0AAAAAD-5DJuo-Inm2Mjw5BGmgtbF11Kae&gclid=Cj0KCQiAosrJBhD0ARIsAHebCNr7h-0834gVkh9Mrr4qy_tPXLkGi9Hqr7xjrOZ31tBcHLRyAgneyfEaAt-bEALw_wcB).Actualmente en 4to Año de la carrera y ya habiendo pasado por varios proyectos universitarios grandes, sabiendo el compromiso que ello implica, estoy listo para aprender y desarrollarme en el ámbito laboral.
 
 # 🖥️ Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
