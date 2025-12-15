@@ -16,4 +16,4 @@ Estudiante de Ingeniería en Sistemas en la [UTN FRRO](https://www.frro.utn.edu.
   ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 # Contactame 📩
 
-![Gmail]( https://img.shields.io/badge/agustinivandana@gmail.com-gmail-orange?logo=gmail)
+![Gmail]( https://img.shields.io/badge/gmail-agustinivandana@gmail.com-orange?logo=gmail)
