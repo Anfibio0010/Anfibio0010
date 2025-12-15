@@ -1,6 +1,8 @@
 # Hola! Soy Agustín Dana 👋
 Estudiante de Ingeniería en Sistemas en la [UTN FRRO](https://www.frro.utn.edu.ar/plan_estudio.php?esp=5&gad_source=1&gad_campaignid=6443087241&gbraid=0AAAAAD-5DJuo-Inm2Mjw5BGmgtbF11Kae&gclid=Cj0KCQiAosrJBhD0ARIsAHebCNr7h-0834gVkh9Mrr4qy_tPXLkGi9Hqr7xjrOZ31tBcHLRyAgneyfEaAt-bEALw_wcB).Actualmente en 4to Año de la carrera y ya habiendo pasado por varios proyectos universitarios grandes, sabiendo el compromiso que ello implica, estoy listo para aprender y desarrollarme en el ámbito laboral.
 
+Me considero una persona muy exigente y disciplinada, especialmente para trabajar en equipos, siendo clave para tareas de desarrollo. Me gusta aprender por mi cuenta y estar pendiente de los rápidos cambios y tecnologías que hay en el ecosistema del desarrollo de software
+
 # 🖥️ Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -14,6 +16,7 @@ Estudiante de Ingeniería en Sistemas en la [UTN FRRO](https://www.frro.utn.edu.
 	![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+  
 # Contactame 📩
 
 ![Gmail]( https://img.shields.io/badge/gmail-agustinivandana@gmail.com-orange?logo=gmail)
